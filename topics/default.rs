@@ -1,5 +1,5 @@
 + foo
-- Bar?
+- Bar?  BAZ!
 
 + hello
 - Hi there!
