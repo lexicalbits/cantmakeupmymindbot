@@ -1,5 +1,5 @@
 + foo
-- Bar?  BAZ!
+- That old hat?
 
 + hello
 - Hi there!
